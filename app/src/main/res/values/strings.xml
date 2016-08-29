@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Exercise 4</string>
+    <string name="joke_textview">A clean house is the sign of a broken computer.</string>
+    <string name="one_joke_button">1 Joke</string>
+    <string name="three_joke_button">3 Jokes</string>
+    <string name="joke_fail">Failed to download joke</string>
+    <string name="joke_length">Joke length:</string>
+    <string-array name="spinner_array">
+        <item>Short</item>
+        <item>Medium</item>
+        <item>Long</item>
+    </string-array>
+</resources>
